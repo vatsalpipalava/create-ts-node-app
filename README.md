@@ -17,19 +17,19 @@ git clone https://github.com/vatsalpipalava/create-ts-node-app.git your-project-
 ```
 
 ```
-$ cd your-project-name
+cd your-project-name
 ```
 
 ### 2. Set Up Environment Variables
 
 ```
-$ cp .env.example .env
+cp .env.example .env
 ```
 
 ### 3. Install Dependencies
 
 ```
-$ npm install
+npm install
 ```
 
 ### 4. Update Project Name
@@ -45,7 +45,7 @@ Modify the package.json and package-lock.json files to reflect your project name
 To start the project in development mode, run:
 
 ```
-$ npm run dev
+npm run dev
 ```
 
 The project will be available at: http://localhost:10100
@@ -55,11 +55,11 @@ The project will be available at: http://localhost:10100
 To build and run the project in production mode, use:
 
 ```
-$ npm run build
+npm run build
 ```
 
 ```
-$ npm run start
+npm run start
 ```
 
 The project will be available at: http://localhost:10100
