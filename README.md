@@ -13,7 +13,7 @@ Follow the steps below to set up and run your project.
 ### 1️. Clone the Repository
 
 ```
-$ git clone https://github.com/vatsalpipalava/create-ts-node-app.git your-project-name
+git clone https://github.com/vatsalpipalava/create-ts-node-app.git your-project-name
 ```
 
 ```
