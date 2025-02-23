@@ -1,5 +1,5 @@
 {
-  "name": "api-wallpaper-app",
+  "name": "create-ts-node-app",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
